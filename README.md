@@ -2,13 +2,16 @@
 
 ### Bridging Bayesian inference, computational geophysics, and data visualization  
 
-I am a computational scientist working at the intersection of **Bayesian inference, stochastic processes, and geophysical modeling**. My work spans probabilistic methods for inverse problems, scalable statistical algorithms, and interactive data visualization tools.  
+Hi 👋 I'm William Davis! I'm a computational scientist working at the intersection of **Bayesian inference and geophysical/geological modeling**. My work spans probabilistic methods for inverse problems, scalable statistical algorithms, and interactive data visualization tools.  
+
+![Uploading out_rotzm_f100_dpi300.gif…]()
+
 
 ### 🔬 About Me  
-- **PhD in Geophysics**, UC Berkeley  
-- **John W. Miles Fellow** in Computational Geophysics, Scripps Institution of Oceanography  
-- **Former Researcher** at Relational AI  
 - **Senior Computational Scientist** at Terra AI  
+- **PhD in Geophysics**, UC Berkeley  
+- **Former John W. Miles Fellow** in Computational Geophysics, Scripps Institution of Oceanography  
+- **Former Researcher** at Relational AI  
 
 ### 🔍 Research Interests  
 - Bayesian inference & probabilistic modeling  
@@ -24,6 +27,7 @@ Exploring **knowledge graph methods** for seismic interpretation in collaboratio
 📌 **[Project Repository](#)**  
 
 ![Placeholder for image](#)  
+![Uploading 1-s2.0-S259019742300040X-gr1_lrg.jpg…]()
 
 ---  
 
