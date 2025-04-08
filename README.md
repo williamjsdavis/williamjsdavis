@@ -2,23 +2,17 @@
 
 ### Bridging Bayesian inference, computational geophysics, and data visualization  
 
-Hi 👋 I'm William Davis! I'm a computational scientist working at the intersection of **Bayesian inference and geophysical/geological modeling**. My work spans probabilistic methods for inverse problems, scalable statistical algorithms, and interactive data visualization tools.  
+Hi 👋 I'm William Davis! I'm a computational scientist working at the intersection of Bayesian inference and geophysical & geological modeling. My work spans probabilistic methods for inverse problems, scalable statistical algorithms, and interactive data visualization tools.  
 
 <!---
 ![428098284-b36e9662-15d2-438b-8d71-8ed281ba4739](https://github.com/user-attachments/assets/8450da97-0fbc-49e2-8856-4f965125496c)
 -->
 
 ### 🔬 About Me  
-- **Senior Computational Scientist** at Terra AI  
+- **Senior Computational Scientist** at [Terra AI](https://www.terraai.com/)  
 - **PhD in Geophysics**, UC Berkeley  
 - **Former John W. Miles Fellow** in Computational Geophysics, Scripps Institution of Oceanography  
 - **Former Researcher** at Relational AI  
-
-### 🔍 Research Interests  
-- Bayesian inference & probabilistic modeling  
-- Stochastic processes & statistical methods  
-- Computational geophysics & inverse problems  
-- Scalable algorithms for spatial and temporal data  
 
 ## 🏗️ Featured Projects  
 <table>
@@ -38,6 +32,13 @@ Hi 👋 I'm William Davis! I'm a computational scientist working at the intersec
       </td>
       <td><a href="https://posgeo.wordpress.com/2025/03/25/hacking-non-stationary-gaussian-processes/">Blog Post Series, starting with: Hacking Non-Stationary Gaussian Processes</a></td>
       <td><img src="https://github.com/user-attachments/assets/087241e8-63ca-4b6e-a38a-5079fcc47683" alt="Visualization" width="400"/></td>
+    </tr>
+    <tr>
+      <td>
+        Posterior Sampling Secret Project...
+      </td>
+      <td>Coming soon...!</td>
+      <td><img src="https://github.com/user-attachments/assets/f9b2bf12-a130-43b8-ab16-b8845beb9dca" alt="Visualization" width="400"/></td>
     </tr>
     <tr>
       <td>
@@ -93,5 +94,6 @@ Hi 👋 I'm William Davis! I'm a computational scientist working at the intersec
 🚀 **Let's Connect!**  
 Feel free to explore my repositories or reach out for collaboration.  
 
-🔗 Website: [https://posgeo.wordpress.com/]  
-💼 LinkedIn: [your-linkedin-profile]  
+🔗 Website: https://posgeo.wordpress.com/
+
+💼 LinkedIn: https://www.linkedin.com/in/william-davis-a5990522b
