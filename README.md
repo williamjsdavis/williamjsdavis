@@ -26,6 +26,15 @@ Hi 👋 I'm William Davis! I'm a computational scientist working at the intersec
   <tbody>
     <tr>
       <td>
+        <a href="https://github.com/williamjsdavis/geo-lm"><b>Geo-LM</b></a>
+        <br/><br/>
+        Geologic models from Llama 4 language model + GemPy
+      </td>
+      <td><a href="https://ai.meta.com/blog/llamacon-hackathon/">Featured in: Official Meta AI Blog!</a></td>
+      <td><img src="https://github.com/user-attachments/assets/dde5f200-e015-49bb-a1c9-a906261bd286" alt="Visualization" width="400"/></td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/williamjsdavis/GP-cubed"><b>GP-cubed</b></a>
         <br/><br/>
         The Gaussian Processes for GeoPhysics and Geology Playground (GP³)
