@@ -77,6 +77,8 @@ Hi 👋 I'm William Davis! I'm a computational scientist working at the intersec
         <a href="https://arxiv.org/abs/2307.00445">Paper in Physical Review E</a>
         <br/><br/>
         <a href="https://posgeo.wordpress.com/2023/08/02/stochastic-processes-and-big-data/">Blog Post: Stochastic Processes and Big Data</a>
+        <br/><br/>
+        <a href="https://github.com/williamjsdavis/online-moments"><b>Python rewrite</b></a>
       </td>
       <td><img src="https://github.com/user-attachments/assets/ec99259f-4f38-4b32-861a-886e0a292297" alt="Visualization" width="400"/></td>
     </tr>
